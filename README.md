@@ -1,6 +1,6 @@
 # PFConnect
 
-Some files in this repository are marked with "Sensible Information" or are not included!
+Some files in this repository are marked with "Sensitive Information" or are not included!
 More code is coming in the future!
 
 **PFConnect** is an open-source virtual airline management platform designed for the Project Flight community. It offers a powerful Discord bot, a comprehensive web dashboard, and a robust API to streamline operations for virtual airlines.
