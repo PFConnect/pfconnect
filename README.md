@@ -24,7 +24,7 @@ PFConnect provides tools to:
 
 -   https://pfconnect.online
 -   https://status.pfconnect.online
--   https://api-v2.pfconnect.online
+-   https://api.pfconnect.online
 -   https://charts.pfconnect.online
 -   https://cd.pfconnect.online
 
