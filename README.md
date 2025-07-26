@@ -30,7 +30,7 @@ PFConnect provides tools to:
 
 ## 🎖️ Team
 
--   [ac-jakob09](https://github.com/ac-jakob09)
+-   [dev-banane](https://github.com/dev-banane)
 -   [Linuss](https://github.com/CoolerMinecraft)
 -   [Geruking](https://github.com/geruking)
 -   [FrenchFries](https://github.com/aviationyyz)
